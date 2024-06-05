@@ -6,3 +6,7 @@
 ###### Hello this is 'h6'
 Tested markdown!
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```javascript
+var String = "Hello, world!";
+```
